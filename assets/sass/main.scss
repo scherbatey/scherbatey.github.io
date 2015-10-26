@@ -286,6 +286,36 @@
 		width: 100%;
 	}
 
+    form {
+      input {
+        color: #000011;
+
+      }
+
+      #ss-form {
+        width: 100%;
+      }
+
+      .error-message, .required-message, .ss-required-asterisk {
+        font-family: "Roboto";
+        color: rgb(196,59,29);
+        font-weight: 400;
+        font-size: 1.000rem;
+        font-style: normal;
+      }
+
+      .required-message, .error-message {
+        color: #c43b1d;
+        display: none;
+        font-size: 13px;
+      }
+
+      .ss-q-short{
+        width: auto;
+      }
+
+
+    }
 /* Wide */
 
 	@include breakpoint(wide) {
