@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": ";;;;;;AAaC,QAAS;EACR,OAAO,EAAE,CAAC;;;AAMX,QAAS;EACR,OAAO,EAAE,CAAC;;;AAKX,OAAQ;EACP,OAAO,EAAE,CAAC;EAGT,cAAG;IACF,OAAO,EAAE,CAAC;;;AAOb,OAAQ;EACP,gBAAgB,EAAE,2BAA2B",
-"sources": ["../../../../../svit/www/scherbatey.github.io/assets/sass/ie9.scss"],
-"names": [],
-"file": "ie9.css"
-}
